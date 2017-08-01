@@ -1,0 +1,11 @@
+.idea
+__pycache__
+settings.py
+
+*.pyc
+
+*.json
+*.jl
+*.csv
+*.xml
+*.out
